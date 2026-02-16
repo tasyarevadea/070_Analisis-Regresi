@@ -184,3 +184,4 @@ Didapatkan nilai $\hat\beta_0 = 109.11880$ artinya nilai dugaan rataan indeks pe
 Nilai $\hat\beta_1 = - 0.46621$ artinya nilai dugaan perubahan dugaan rataan Indeks Pembangunan Manusia jika tingkat partisipasi angkatan kerja berubah satu tahun adalah sebesar -4.662%
 
 Koefisien determinasi yang dihasilkan adalah 0.1887 atau 18.87% artinya indeks pembangunan manusia yang dapat dijelaskan oleh tingkat partisipasi angkatan kerja adalah sebesar 18.87%, sisanya yaitu 91.13% dijelaskan oleh peubah lain yang tidak dimasukkan dalam model.
+
